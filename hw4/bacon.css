@@ -1,0 +1,44 @@
+body {
+	background-color: #dad9d4;
+	font-family: Verdana, sans-serif;
+}
+#frame {
+	background-color: white;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#banner {
+	background-image: url(banner-background.png);
+	color: white;
+	padding: 1em;
+}
+#w3c {
+	background-image: url(banner-background.png);
+	padding: 1em;
+}
+#main {
+	text-align: center;
+	padding: 1em;
+}
+form {
+	width: 48em;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.tab {
+	text-align: center;
+
+
+}
+table {
+	border-collapse: collapse;
+	margin: auto;
+}
+td.od{
+	text-align: center;
+}
+td.ou {
+	text-align: center;
+	background-color: #dad9d4;
+}

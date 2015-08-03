@@ -1,0 +1,32 @@
+body {
+	background-color: #CCCCFF;
+	font-family: sans-serif;
+	font-size: 14pt;
+	font-style: bold;
+}
+h1 {
+	font-size: 32pt;
+	text-align: center;
+	margin: 0pt;
+}
+textarea {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	height: 400px;
+	font-size: 12pt;
+	font-family: monospace;
+	font-style: bold;
+	text-align: left;
+}
+fieldset {
+	display: inline;
+	border: 5px solid black;
+	vertical-align: top;
+}
+.t {
+	text-align: center;
+}
+#w3c {
+	float: right;
+}

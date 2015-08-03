@@ -1,0 +1,111 @@
+body {
+	background-image: url(http://ws.mss.icics.ubc.ca/~cics516/cur/hw/hw2/images/background.png);
+	background-repeat: repeat;
+	font-family: Verdana, Tahoma, sans-serif;
+	font-size: 8pt;
+	padding: 0px;
+	margin: 0px;
+	background-size: auto 50px;
+}
+div.top_page {
+	background-image: url(http://ws.mss.icics.ubc.ca/~cics516/cur/hw/hw2/images/bannerbg.png);
+	background-repeat: repeat-x;	
+	text-align: center;
+}
+dt {
+	font-weight: bold;
+	margin-top: 10px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+h1 {
+	text-align: center;
+	font-size: 24pt;
+	font-weight: bold;
+	font-family: Tahoma, Verdana, sans-serif;
+	text-shadow: 3px 3px #999999;
+}
+div.content {
+	border-style: solid;
+	border-width: 4px;
+	border-color: gray;
+	border-radius: 20px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+span.right {
+	float: right;
+	width: 250px;
+}
+div.rotten {
+	width: 550px;
+	background-image: url(http://ws.mss.icics.ubc.ca/~cics516/cur/hw/hw2/images/rbg.png);
+	background-repeat: repeat-x;
+	background-size: auto 83px;
+	float: left;
+}
+span.move {
+	font-size: 48pt;
+	font-weight: bold;
+	color: red;
+	vertical-align: top;
+}
+div.right_definition {
+	padding: 10px;
+	font-size: 8pt;
+	font-family: Arial;
+	text-align: left;
+}
+div.column_left {
+	font-size: 8pt;
+	background-color: #E3DC9B;
+	border: 2px solid gray;
+	border-radius: 10px;
+	margin-top: 20px;
+	padding: 8px;
+	text-align: left;
+	overflow: auto;
+	clear: both;
+}
+div.text_left {
+	text-align: left;
+	margin-top: 20px;
+	overflow: auto;
+	clear: both;
+	
+}
+div.up {
+	width: 47%;
+	margin-left: 2%;
+	float:left;
+}
+div.b {
+	float: left;
+	margin-right: 5px;
+}
+div.leftcenter {
+	float: left;
+	width: 550px;
+}
+div.bottom {
+	padding: 5px;
+	background-color: #A2B964;
+	text-align: center;
+}
+div.link {
+	position: fixed;
+	right: 5px;
+	bottom: 5px;
+	opacity: 0.5;
+}
+div.rightcenter {
+	background-color: #A2B964;
+	margin-left: 550px;
+	width: 250px;
+}
+
